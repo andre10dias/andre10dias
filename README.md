@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" height="30" alt="spring logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" height="30" alt="springboot logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="30" alt="postgresql logo"  />
