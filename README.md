@@ -11,6 +11,12 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" height="30" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="30" alt="javascript logo"  />
@@ -19,7 +25,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" height="30" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" height="30" alt="stripe logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -29,13 +39,29 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="30" alt="xd logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="30" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" height="30" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" height="30" alt="springboot logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" height="30" alt="web3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" height="30" alt="supabase logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="30" alt="postgresql logo"  />
   <img width="12" />
